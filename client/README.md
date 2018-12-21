@@ -42,3 +42,7 @@ fichier src/gameServer.js et que celui-ci fonctionne correctement
 et contienne des informations potentiellement utiles.
                                                                                                                                 
 GL HF
+
+##Partie ELEVE
+
+Au changement, les seeds se mettent les uns sur les autres
